@@ -115,8 +115,6 @@ pyzmq==22.1.0
 scikit-image==0.18.3
 
 simplegeneric==0.8.1
-
-sip==4.19.13
 six==1.16.0
 
 Sphinx==4.2.0
