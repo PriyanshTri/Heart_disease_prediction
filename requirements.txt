@@ -21,7 +21,6 @@ certifi==2021.10.8
 
 click==8.0.3
 
-clyent==1.2.2
 colorama==0.4.4
 comtypes==1.1.10
 conda==4.11.0
