@@ -97,8 +97,6 @@ Pygments==2.9.0
 
 pyls-spyder==0.4.0
 
-pyodbc===4.0.0-unsupported
-
 pyparsing==2.4.7
 pyreadline==2.1
 
